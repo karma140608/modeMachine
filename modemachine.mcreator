@@ -1,0 +1,118 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Minerai",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "minerai"
+    },
+    {
+      "name": "ZincOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zinc_ore"
+    },
+    {
+      "name": "UraniumOre",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_ore"
+    },
+    {
+      "name": "CuivreOre",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cuivre_ore"
+    },
+    {
+      "name": "ZincIngot",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zinc_ingot"
+    },
+    {
+      "name": "CraftlingotdeZinc",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "craftlingotde_zinc"
+    },
+    {
+      "name": "Radiation",
+      "type": "potion",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "radiation"
+    },
+    {
+      "name": "RadiationEnTickActifDeLaPotion",
+      "type": "procedure",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "radiation_en_tick_actif_de_la_potion",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.modemachine.zinc_ore": "Zinc Ore",
+      "itemGroup.tabminerai": "Minerai",
+      "item.minecraft.tipped_arrow.effect.radiation": "Arrow of Radiation",
+      "item.minecraft.lingering_potion.effect.radiation": "Lingering Radiation",
+      "block.modemachine.uranium_ore": "Uranium Ore",
+      "item.minecraft.potion.effect.radiation": "Radiation",
+      "effect.radiation": "Radiation",
+      "block.modemachine.cuivre_ore": "Cuivre Ore",
+      "item.minecraft.splash_potion.effect.radiation": "Splash Radiation",
+      "item.modemachine.zinc_ingot": "Zinc Ingot"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "modemachine",
+    "modName": "ModeMachine",
+    "version": "1.0.0",
+    "author": "User, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.modemachine",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

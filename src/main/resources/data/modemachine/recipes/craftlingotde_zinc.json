@@ -1,0 +1,12 @@
+{
+  "group": "modemachine",
+  "type": "minecraft:smelting",
+  "experience": 3,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "modemachine:zinc_ore"
+  },
+  "result": {
+    "item": "modemachine:zinc_ingot"
+  }
+}

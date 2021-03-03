@@ -1,0 +1,12 @@
+{
+  "block.modemachine.zinc_ore": "Zinc Ore",
+  "itemGroup.tabminerai": "Minerai",
+  "item.minecraft.tipped_arrow.effect.radiation": "Arrow of Radiation",
+  "item.minecraft.lingering_potion.effect.radiation": "Lingering Radiation",
+  "block.modemachine.uranium_ore": "Uranium Ore",
+  "item.minecraft.potion.effect.radiation": "Radiation",
+  "effect.radiation": "Radiation",
+  "block.modemachine.cuivre_ore": "Cuivre Ore",
+  "item.minecraft.splash_potion.effect.radiation": "Splash Radiation",
+  "item.modemachine.zinc_ingot": "Zinc Ingot"
+}

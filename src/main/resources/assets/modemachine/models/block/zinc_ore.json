@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "modemachine:blocks/zinc",
+    "up": "modemachine:blocks/zinc",
+    "north": "modemachine:blocks/zinc",
+    "east": "modemachine:blocks/zinc",
+    "south": "modemachine:blocks/zinc",
+    "west": "modemachine:blocks/zinc",
+    "particle": "modemachine:blocks/zinc"
+  }
+}
